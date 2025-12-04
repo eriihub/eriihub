@@ -2,7 +2,7 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Erika%20Ruiz%20De%20Almiron%20Trelles&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
-  <h3 align="center">Aka Eri to besties</h3>
+  <h3 align="center">Aka Eri</h3>
 
 ### 🫧🫧🫧🫧
 ![Lila Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)   
