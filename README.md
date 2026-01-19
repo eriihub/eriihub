@@ -54,6 +54,7 @@ Skills
   
 Contacts 
 <h4></h4>
+
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-nGIYg_voxt2yljuwF-XlA)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/709812214122676276)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](http://twitch.tv/erihub)
