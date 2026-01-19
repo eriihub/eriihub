@@ -68,7 +68,6 @@ Contacts
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 </div>
 
-
 <!--
 USED:
 1. Markdown: https://github.github.com/gfm/
@@ -78,6 +77,7 @@ USED:
 5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
 6. Badges: https://shields.io
 -->
+
 Credits: [EmmadiDivyaSrujana](https://github.com/EmmadiDivyaSrujana)
 Credit: [Dum6o](https://github.com/Dum6o)
 Credit: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/commits?author=FeryaelJustice
