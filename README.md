@@ -61,7 +61,7 @@ Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:erikaruizdalmiron@gmail.com)](mailto:erikaruizdalmiron@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erika-sofía-ruiz-de-almirón-trelles-894b65364)
 
-###
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" alt="Corazones">
 </p>  
