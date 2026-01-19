@@ -29,7 +29,7 @@
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-78DAFF?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-78DAFF?style=for-the-badge&logo=mysql&logoColor=black">
 </span>
 
 <h4> IDE </h4>
