@@ -29,9 +29,9 @@ Skills
 
 <h4> Databases </h4>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-788CFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=788CFF)
-![SQLite](https://img.shields.io/badge/sqlite-A978FF?style=for-the-badge&logo=sqlite&logoColor=black&labelColor=A978FF)
-![MySql](https://img.shields.io/badge/mysql-F796FF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=F796FF)
+![PostgreSQL](https://img.shields.io/badge/postgresql-A978FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=A978FF)
+![SQLite](https://img.shields.io/badge/sqlite-788CFF?style=for-the-badge&logo=sqlite&logoColor=black&labelColor=788CFF)
+![MySql](https://img.shields.io/badge/mysql-78DAFF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=78DAFF)
 
 <h4> IDE </h4>
 <span>
