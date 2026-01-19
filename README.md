@@ -31,10 +31,13 @@ Skills
 
 ![MySql](https://img.shields.io/badge/mysql-78DAFF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=78DAFF)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-788CFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=788CFF)
+![SQLite](https://img.shields.io/badge/sqlite-A978FF?style=for-the-badge&logo=sqlite&logoColor=black&labelColor=A978FF)
 
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  
+  ![IntellijIdea](https://img.shields.io/badge/intellijidea-F796FF?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=F796FF)
 </span>
 
 <h4> Operating System </h4>
