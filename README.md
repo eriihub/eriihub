@@ -48,7 +48,7 @@ Skills
   <img src="https://img.shields.io/badge/Linux-F796FF?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-A978FF?style=for-the-badge&logo=ubuntu&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-788CFF?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=black">
 </span>
 
 #### Version Control
