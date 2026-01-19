@@ -77,10 +77,10 @@ USED:
 5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
 6. Badges: https://shields.io
 -->
-<p>
+###
 Credits: [EmmadiDivyaSrujana](https://github.com/EmmadiDivyaSrujana)
 Credit: [Dum6o](https://github.com/Dum6o)
 Credit: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/commits?author=FeryaelJustice
 Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
 Credit: [FahimFBA](https://github.com/FahimFBA)
-</p>
+ 
