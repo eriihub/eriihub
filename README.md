@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  ![Header](./github-header-baner-eri.png)
+  ![Header](./github-header-banner-eri.png)
   <h3 align="center">Aka Eri</h3>
 
 ### 🫧🫧🫧🫧
