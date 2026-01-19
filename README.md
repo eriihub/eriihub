@@ -7,7 +7,7 @@
 
 <h3 align="center">
   <a href="https://github.com/eriihub" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/eriihub?label=Github%20followers&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/eriihub?label=Github%20followers&color=A978FF&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/eriihub" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=eriihub&label=Views&color=F796FF&style=flat-square" alt="views on github" />
