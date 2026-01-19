@@ -28,8 +28,8 @@ Skills
 ![Java](https://img.shields.io/badge/-Java-F796FF?style=for-the-badge&logo=java)
 
 <h4> Databases </h4>
-<img src="https://img.shields.io/badge/MySQL-78DAFF?style=for-the-badge&logo=mysql&logoColor=black">
 
+![MySql](https://img.shields.io/badge/mysql-78DAFF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=78DAFF)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-788CFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=788CFF)
 
 <h4> IDE </h4>
