@@ -30,6 +30,7 @@ Skills
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-78DAFF?style=for-the-badge&logo=mysql&logoColor=black">
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-788CFF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=788CFF)
 </span>
 
 <h4> IDE </h4>
