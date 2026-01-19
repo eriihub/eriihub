@@ -23,10 +23,9 @@
 <h4> Languages </h4>
 
 ![HTML](https://img.shields.io/badge/HTML-78DAFF?style=flat-square&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![CSS](https://img.shields.io/badge/CSS-788CFF?&style=flat-square&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-A978FF?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-F796FF?style=flat-square&logo=java)
 
 <h4> Databases </h4>
 <span>
@@ -40,10 +39,10 @@
 
 <h4> Operating System </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-78DAFF?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-A978FF?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-F796FF?style=for-the-badge&logo=android&logoColor=white">
 </span>
 
 #### Version Control
