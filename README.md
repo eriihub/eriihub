@@ -26,7 +26,7 @@ Skills
 ![CSS](https://img.shields.io/badge/CSS-788CFF?style=for-the-badge&logo=css&logoColor=white&labelColor=788CFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-A978FF?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-F796FF?style=for-the-badge&logo=java)
-![Java](https://img.shields.io/badge/java-%F796FF.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-F796FF?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h4> Databases </h4>
 
