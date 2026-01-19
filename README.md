@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="github-header-banner-eri.png" alt="Header" width="100%">
+  <img src="github-header-banner-eri.png" alt="Header" width="100%"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
+
 <br>
 
 ### 🚺 Estudiante de desarrollo de aplicaciones multiplataforma 🚺
