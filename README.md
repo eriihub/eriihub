@@ -10,7 +10,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/eriihub?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/eriihub" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=eriihub&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=eriihub&label=Views&color=F796FF&style=flat-square" alt="views on github" />
   </a>
   </h3> 
       
