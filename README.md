@@ -55,13 +55,13 @@ Skills
 Contacts 
 <h4></h4>
 
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-nGIYg_voxt2yljuwF-XlA)
+[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-nGIYg_voxt2yljuwF-XlA)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/709812214122676276)
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](http://twitch.tv/erihub)
+[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=flat-square&logo=Twitch&logoColor=white)](http://twitch.tv/erihub)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whoseriu)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eriikaa_rzd)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eriikaa_rzd)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:erikaruizdalmiron@gmail.com)](mailto:erikaruizdalmiron@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erika-sofía-ruiz-de-almirón-trelles-894b65364)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/erika-sofía-ruiz-de-almirón-trelles-894b65364)
 
 ###
 <p align="center"></p>  
