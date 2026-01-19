@@ -43,12 +43,12 @@ Skills
   
 </span>
 
-<h4> Operating System </h4>
+<h4> OS </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-78DAFF?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-A978FF?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-F796FF?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-F796FF?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-A978FF?style=for-the-badge&logo=ubuntu&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-788CFF?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=white">
 </span>
 
 #### Version Control
