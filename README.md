@@ -1,10 +1,7 @@
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="github-header-banner-eri.png" alt="Header" width="100%">
-  <h3 align="center">Aka Eri</h3>
-
-### 🫧🫧🫧🫧
-![Lila Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)   
+  ![Lila Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)   
 
 ### 🚺 Estudiante de desarrollo de aplicaciones multiplataforma 🚺
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
