@@ -51,8 +51,9 @@ Skills
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 
 <h2 align="center">
+  
 Contacts 
-
+<h4></h4>
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-nGIYg_voxt2yljuwF-XlA)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/709812214122676276)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](http://twitch.tv/erihub)
@@ -61,7 +62,7 @@ Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:erikaruizdalmiron@gmail.com)](mailto:erikaruizdalmiron@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erika-sofía-ruiz-de-almirón-trelles-894b65364)
 
-
+###
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" alt="Corazones">
 </p>  
