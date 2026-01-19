@@ -18,7 +18,7 @@
 
 <h2 align="center">
 
-## Skills
+Skills
 
 <h4> Languages </h4>
 
