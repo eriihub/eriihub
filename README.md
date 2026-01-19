@@ -36,7 +36,7 @@ Skills
 <h4> IDE </h4>
 <span>
 
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-78DAFF.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-78DAFF.svg?style=for-the-badge&logo=android-studio&logoColor=black)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-788CFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntellijIdea](https://img.shields.io/badge/intellijidea-A978FF?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=A978FF)
   
