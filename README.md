@@ -28,7 +28,15 @@ Skills
 ![Java](https://img.shields.io/badge/java-F796FF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-78DAFF?style=for-the-badge&logo=php&logoColor=black)
 
+<h4> Frameworks & Libraries </h4>
+
+![Vue.js](https://img.shields.io/badge/Vue.js-78DAFF?style=for-the-badge&logo=vue.js&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-788CFF?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-A978FF?style=for-the-badge&logo=vite&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-F796FF?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-78DAFF?style=for-the-badge&logo=bootstrap&logoColor=black)
 
 <h4> Databases </h4>
 
@@ -42,7 +50,7 @@ Skills
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-78DAFF.svg?style=for-the-badge&logo=android-studio&logoColor=black)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-788CFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntellijIdea](https://img.shields.io/badge/intellijidea-A978FF?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=A978FF)
-  
+  ![Antigravity](https://img.shields.io/badge/Antigravity-A978FF?style=for-the-badge&logo=spacex&logoColor=black)
   
 </span>
 
@@ -56,6 +64,7 @@ Skills
 
 #### Version Control
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&labelColor=A978FF)](#)
+![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=white)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 
