@@ -63,8 +63,8 @@ Skills
 </span>
 
 #### Version Control
-[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&labelColor=A978FF)](#)
-![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F796FF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-78DAFF?style=for-the-badge&logo=github&logoColor=black)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 
