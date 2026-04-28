@@ -28,6 +28,7 @@ Skills
 ![Java](https://img.shields.io/badge/java-F796FF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Vue](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=vue&logoColor=white&label=vue)
 
 <h4> Databases </h4>
 
