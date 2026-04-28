@@ -48,7 +48,7 @@
 <span>
 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-78DAFF?style=for-the-badge&logo=android-studio&logoColor=black)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-788CFF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-788CFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![IntellijIdea](https://img.shields.io/badge/IntelliJ_IDEA-A978FF?style=for-the-badge&logo=intellijidea&logoColor=black)
   ![Antigravity](https://img.shields.io/badge/Antigravity-F796FF?style=for-the-badge&logo=rocket&logoColor=black)
 
