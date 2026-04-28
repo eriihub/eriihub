@@ -59,7 +59,7 @@
 
   ![Linux](https://img.shields.io/badge/Linux-78DAFF?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-A978FF?style=for-the-badge&logo=windows&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-A978FF?style=for-the-badge&logo=windows11&logoColor=black)
   ![Android](https://img.shields.io/badge/Android-F796FF?style=for-the-badge&logo=android&logoColor=black)
 
 </span>
