@@ -16,55 +16,57 @@
       
 ![Lila Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)               
 
-<h2 align="center">
-
-Skills
+<h2 align="center">Skills</h2>
 
 <h4> Languages </h4>
 
 ![HTML5](https://img.shields.io/badge/HTML5-78DAFF?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-788CFF?style=for-the-badge&logo=css&logoColor=white&labelColor=788CFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-A978FF?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-F796FF?style=for-the-badge&logo=openjdk&logoColor=black)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-78DAFF?style=for-the-badge&logo=php&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-788CFF?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A978FF?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F796FF?style=for-the-badge&logo=openjdk&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-78DAFF?style=for-the-badge&logo=kotlin&logoColor=black)
+![Python](https://img.shields.io/badge/Python-788CFF?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-A978FF?style=for-the-badge&logo=php&logoColor=black)
 
 <h4> Frameworks & Libraries </h4>
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-78DAFF?style=for-the-badge&logo=vue.js&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-788CFF?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-A978FF?style=for-the-badge&logo=vite&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-788CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-A978FF?style=for-the-badge&logo=angular&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-F796FF?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-78DAFF?style=for-the-badge&logo=bootstrap&logoColor=black)
 
 <h4> Databases </h4>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-A978FF?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=A978FF)
-![SQLite](https://img.shields.io/badge/sqlite-788CFF?style=for-the-badge&logo=sqlite&logoColor=black&labelColor=788CFF)
-![MySql](https://img.shields.io/badge/mysql-78DAFF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=78DAFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-78DAFF?style=for-the-badge&logo=postgresql&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-788CFF?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-A978FF?style=for-the-badge&logo=mysql&logoColor=black)
 
 <h4> IDE </h4>
 <span>
 
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-78DAFF.svg?style=for-the-badge&logo=android-studio&logoColor=black)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-788CFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntellijIdea](https://img.shields.io/badge/intellijidea-A978FF?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=A978FF)
-  ![Antigravity](https://img.shields.io/badge/Antigravity-A978FF?style=for-the-badge&logo=spacex&logoColor=black)
-  
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-78DAFF?style=for-the-badge&logo=android-studio&logoColor=black)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-788CFF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntellijIdea](https://img.shields.io/badge/IntelliJ_IDEA-A978FF?style=for-the-badge&logo=intellijidea&logoColor=black)
+  ![Antigravity](https://img.shields.io/badge/Antigravity-F796FF?style=for-the-badge&logo=rocket&logoColor=black)
+
 </span>
 
 <h4> OS </h4>
 <span>
-  <img src="https://img.shields.io/badge/Linux-F796FF?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-A978FF?style=for-the-badge&logo=ubuntu&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-788CFF?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=black">
+
+  ![Linux](https://img.shields.io/badge/Linux-78DAFF?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-A978FF?style=for-the-badge&logo=windows&logoColor=black)
+  ![Android](https://img.shields.io/badge/Android-F796FF?style=for-the-badge&logo=android&logoColor=black)
+
 </span>
 
 #### Version Control
-![Git](https://img.shields.io/badge/Git-F796FF?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-78DAFF?style=for-the-badge&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git-78DAFF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-788CFF?style=for-the-badge&logo=github&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 
