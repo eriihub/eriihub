@@ -29,6 +29,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-78DAFF?style=for-the-badge&logo=kotlin&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-788CFF?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-A978FF?style=for-the-badge&logo=php&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F796FF?style=for-the-badge&logo=typescript&logoColor=black)
 
 <h4> Frameworks & Libraries </h4>
 
