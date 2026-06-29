@@ -47,12 +47,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-788CFF?style=for-the-badge&logo=mysql&logoColor=black)
 
 <h4> IDE </h4>
-<span>
-
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-78DAFF?style=for-the-badge&logo=android-studio&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-788CFF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntellijIdea](https://img.shields.io/badge/IntelliJ_IDEA-A978FF?style=for-the-badge&logo=intellijidea&logoColor=black)
+<span
+  
+  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-A978FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntellijIdea](https://img.shields.io/badge/IntelliJ_IDEA-F796FF?style=for-the-badge&logo=intellijidea&logoColor=black)
   ![Antigravity](https://img.shields.io/badge/Antigravity-F796FF?style=for-the-badge&logo=rocket&logoColor=black)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-A978FF?style=for-the-badge&logo=android-studio&logoColor=black)
 
 </span>
 
