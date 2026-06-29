@@ -29,8 +29,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-F796FF?style=for-the-badge&logo=kotlin&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-A978FF?style=for-the-badge&logo=typescript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-788CFF?style=for-the-badge&logo=php&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-78DAFF?style=for-the-badge&logo=typescript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-78DAFF?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-78DAFF?style=for-the-badge&logo=python&logoColor=black)
 
 <h4> Frameworks & Libraries </h4>
 
@@ -68,7 +67,7 @@
 </span>
 
 #### Version Control
-![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=black)
+![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-788CFF?style=for-the-badge&logo=github&logoColor=white)
 
 #### Tools
