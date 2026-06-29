@@ -3,7 +3,7 @@
   <img src="github-header-banner-eri.png" alt="Header" width="100%">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 
-  ### 🚺 Estudiante de desarrollo de aplicaciones multiplataforma 🚺
+  ### 🚺 Multiplatform Developer 🚺
 
 <h3 align="center">
   <a href="https://github.com/eriihub" target="_blank">
