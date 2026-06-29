@@ -43,13 +43,13 @@
 <h4> Databases </h4>
 
 ![SQLite](https://img.shields.io/badge/SQLite-788CFF?style=for-the-badge&logo=sqlite&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A978FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A978FF?style=for-the-badge&logo=postgresql&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-788CFF?style=for-the-badge&logo=mysql&logoColor=black)
 
 <h4> IDE </h4>
 <span
   
-  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-A978FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-A978FF?style=for-the-badge&logo=visual-studio-code&logoColor=black)
   ![IntellijIdea](https://img.shields.io/badge/IntelliJ_IDEA-F796FF?style=for-the-badge&logo=intellijidea&logoColor=black)
   ![Antigravity](https://img.shields.io/badge/Antigravity-F796FF?style=for-the-badge&logo=rocket&logoColor=black)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-A978FF?style=for-the-badge&logo=android-studio&logoColor=black)
@@ -62,7 +62,7 @@
   ![Linux](https://img.shields.io/badge/Linux-78DAFF?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-788CFF?style=for-the-badge&logo=windows&logoColor=black)
-  ![Android](https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=black)
 
 </span>
 
@@ -71,7 +71,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-788CFF?style=for-the-badge&logo=github&logoColor=black)
 
 #### Tools
-![Odoo](https://img.shields.io/badge/Odoo-A978FF?style=for-the-badge&logo=odoo&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-A978FF?style=for-the-badge&logo=odoo&logoColor=black)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Lila Divider" width="100%">
 
