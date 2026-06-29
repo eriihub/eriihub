@@ -37,14 +37,14 @@
 ![Angular](https://img.shields.io/badge/Angular-788CFF?style=for-the-badge&logo=angular&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-A978FF?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-788CFF?style=for-the-badge&logo=bootstrap&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-78DAFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-78DAFF?style=for-the-badge&logo=vite&logoColor=black)
 
 
 <h4> Databases </h4>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-78DAFF?style=for-the-badge&logo=postgresql&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-788CFF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-A978FF?style=for-the-badge&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-788CFF?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h4> IDE </h4>
 <span>
