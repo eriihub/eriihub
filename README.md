@@ -34,10 +34,11 @@
 <h4> Frameworks & Libraries </h4>
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-78DAFF?style=for-the-badge&logo=vue.js&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-788CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-A978FF?style=for-the-badge&logo=angular&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-F796FF?style=for-the-badge&logo=tailwind-css&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-78DAFF?style=for-the-badge&logo=bootstrap&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-788CFF?style=for-the-badge&logo=angular&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-A978FF?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-788CFF?style=for-the-badge&logo=bootstrap&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-78DAFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 <h4> Databases </h4>
 
