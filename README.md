@@ -43,8 +43,8 @@
 <h4> Databases </h4>
 
 ![SQLite](https://img.shields.io/badge/SQLite-788CFF?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-A978FF?style=for-the-badge&logo=mysql&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-788CFF?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A978FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-788CFF?style=for-the-badge&logo=mysql&logoColor=black)
 
 <h4> IDE </h4>
 <span>
