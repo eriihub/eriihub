@@ -27,9 +27,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-A978FF?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-F796FF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-F796FF?style=for-the-badge&logo=kotlin&logoColor=black)
-![Python](https://img.shields.io/badge/Python-A978FF?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-A978FF?style=for-the-badge&logo=typescript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-788CFF?style=for-the-badge&logo=php&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-78DAFF?style=for-the-badge&logo=typescript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-78DAFF?style=for-the-badge&logo=python&logoColor=white)
 
 <h4> Frameworks & Libraries </h4>
 
@@ -61,13 +62,13 @@
 
   ![Linux](https://img.shields.io/badge/Linux-78DAFF?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-A978FF?style=for-the-badge&logo=windows&logoColor=black)
-  ![Android](https://img.shields.io/badge/Android-F796FF?style=for-the-badge&logo=android&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-788CFF?style=for-the-badge&logo=windows&logoColor=black)
+  ![Android](https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=black)
 
 </span>
 
 #### Version Control
-![Git](https://img.shields.io/badge/Git-78DAFF?style=for-the-badge&logo=git&logoColor=black)
+![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-788CFF?style=for-the-badge&logo=github&logoColor=white)
 
 #### Tools
