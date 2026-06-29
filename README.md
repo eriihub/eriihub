@@ -23,7 +23,7 @@
 <h4> Languages </h4>
 
 ![HTML5](https://img.shields.io/badge/HTML5-78DAFF?style=for-the-badge&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-788CFF?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-788CFF?style=for-the-badge&logo=css&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-A978FF?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-F796FF?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-F796FF?style=for-the-badge&logo=kotlin&logoColor=black)
@@ -42,7 +42,7 @@
 
 <h4> Databases </h4>
 
-![SQLite](https://img.shields.io/badge/SQLite-788CFF?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-788CFF?style=for-the-badge&logo=sqlite&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A978FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-788CFF?style=for-the-badge&logo=mysql&logoColor=black)
 
@@ -60,15 +60,15 @@
 <span>
 
   ![Linux](https://img.shields.io/badge/Linux-78DAFF?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-788CFF?style=for-the-badge&logo=ubuntu&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-788CFF?style=for-the-badge&logo=windows&logoColor=black)
-  ![Android](https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=black)
+  ![Android](https://img.shields.io/badge/Android-78DAFF?style=for-the-badge&logo=android&logoColor=white)
 
 </span>
 
 #### Version Control
-![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-788CFF?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-788CFF?style=for-the-badge&logo=github&logoColor=black)
 
 #### Tools
 ![Odoo](https://img.shields.io/badge/Odoo-A978FF?style=for-the-badge&logo=odoo&logoColor=white)
