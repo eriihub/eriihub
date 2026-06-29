@@ -67,8 +67,8 @@
 </span>
 
 #### Version Control
-![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-788CFF?style=for-the-badge&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/Git-788CFF?style=for-the-badge&logo=git&logoColor=black)
 
 #### Tools
 ![Odoo](https://img.shields.io/badge/Odoo-A978FF?style=for-the-badge&logo=odoo&logoColor=black)
